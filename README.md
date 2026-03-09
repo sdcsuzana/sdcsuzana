@@ -1,6 +1,5 @@
 # Olá, muito prazer, me chamo Suzana! 😄
-  Atualmente cursando Técnico em Desenvolvimento de Sistemas focado em Python, HTML e CSS
-
+  Atualmente cursando Técnico em Desenvolvimento de Sistemas 
 
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
